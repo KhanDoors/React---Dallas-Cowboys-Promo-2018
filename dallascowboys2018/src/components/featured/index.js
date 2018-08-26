@@ -7,7 +7,7 @@ const Featured = () => {
       <Carousel />
 
       <div className="artist_name">
-        <div className="wrapper">"The 'Boys"</div>
+        <div className="wrapper">The 'Boys are Back</div>
       </div>
     </div>
   );
