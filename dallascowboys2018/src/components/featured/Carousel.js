@@ -6,6 +6,7 @@ import cowboys2 from "../../resources/images/cowboys2.jpg";
 import cowboys3 from "../../resources/images/cowboys3.jpg";
 import cowboys5 from "../../resources/images/cowboys5.jpg";
 import cowboys7 from "../../resources/images/cowboys7.jpg";
+import cowboys8 from "../../resources/images/cowboys8.jpg";
 
 const Carousel = () => {
   const settings = {
@@ -59,6 +60,16 @@ const Carousel = () => {
             className="carrousel_image"
             style={{
               background: `url(${cowboys2})`,
+              height: `${window.innerHeight}px`
+            }}
+          />
+        </div>
+
+        <div>
+          <div
+            className="carrousel_image"
+            style={{
+              background: `url(${cowboys8})`,
               height: `${window.innerHeight}px`
             }}
           />
