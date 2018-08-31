@@ -7,17 +7,34 @@ import Highlights from "./components/Highlights";
 import Pricing from "./components/pricing";
 import Location from "./components/location";
 import Footer from "./components/header_footer/Footer";
+import { Element } from "react-scroll";
 
 class App extends Component {
   render() {
     return (
       <div className="App">
         <Header />
-        <Featured />
-        <VenueNfo />
-        <Highlights />
-        <Pricing />
-        <Location />
+
+        <Element name="featured">
+          <Featured />
+        </Element>
+
+        <Element name="venueNfo">
+          <VenueNfo />
+        </Element>
+
+        <Element name="highlights">
+          <Highlights />
+        </Element>
+
+        <Element name="pricing">
+          <Pricing />
+        </Element>
+
+        <Element name="location">
+          <Location />
+        </Element>
+
         <Footer />
       </div>
     );
