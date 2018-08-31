@@ -15,7 +15,7 @@ body {
   background: #ffffff;
 }
 .bck_red {
-  background: #ff4800;
+  background: #210ddd;
 }
 .bck_yellow {
   background: #ffa800;
@@ -60,7 +60,7 @@ footer {
   text-align: center;
   font-size: 60px;
   color: #ffffff;
-  background: red;
+  background: rgb(66, 12, 216);
 }
 
 footer .footer_copyright {
