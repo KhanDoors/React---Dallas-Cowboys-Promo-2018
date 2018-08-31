@@ -43,10 +43,10 @@ class Discount extends Component {
                 and begin a great run to the playoffs.
               </p>
               <MyButton
-                text="DC Schedule"
+                text="Dallas Cowboys"
                 bck="blue"
                 color="silver"
-                link="https://www.dallascowboys.com/schedule/"
+                link="https://www.dallascowboys.com/"
               />
             </div>
           </Slide>
