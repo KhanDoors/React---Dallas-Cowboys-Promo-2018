@@ -7,9 +7,9 @@ class Pricing extends Component {
     prices: [16, 52, 32],
     positions: ["Games", "Players", "Cheerleaders"],
     desc: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt uts",
-      "Dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      "There are questions from expectations of Randy Gregory, rookie who makes the biggest impact, and the performances of Zeke, Dak and DeMarcus Lawrence, should be cool.",
+      "The Cowboys got younger this summer. They had a well-received Draft, snagging linebacker Leighton Vander Esch, lineman Connor Williams, and receiver Michael Gallup. Should be exciting!",
+      "You can watch them cheer for the Dallas Cowboys at AT&T Stadium, you can see their journey on CMT’s “Making The Team,” and now you can find them here at the Official Dallas Cowboys Pro Shop."
     ],
     linkto: [
       "https://www.dallascowboys.com/schedule/",

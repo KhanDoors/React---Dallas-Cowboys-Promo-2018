@@ -7,22 +7,25 @@ const Description = () => {
       <div className="center_wrapper">
         <h2>The Rundown</h2>
         <div className="highlight_description">
-          Expecting to see the Cowboys open the season against the rival New
-          York Giants? Well, you weren't alone. Instead, they'll look to head
-          east to Charlotte and take on the Carolina Panthers, a playoff team
-          that consistently seems one step away from taking home the franchise's
-          first Lombardi trophy. Cam Newton is one of the best quarterbacks in
-          the NFL when he's firing on all cylinders, and arguably one of the
-          worst when he's off his game. Making him more apt to the former is
-          second-year star Christian McCaffrey, a dynamo who can hit a home run
-          with every touch of the ball, and perennial All-Pro linebacker Luke
-          Kuechly is healthy and ready to again anchor a defense that still
-          boasts a time-defying Julius Peppers. The Cowboys will have their
-          hands full in this contest, but Newton can be forced into poor throws
-          if pressure is applied while being able to contain him in the pocket.
-          DeMarcus Lawrence can most certainly get the job done. The Cowboys
-          will drop the hammer that is Ezekiel Elliott, and win this one big for
-          Syyad and the boys over at Lake Mary.
+          There is excitement for this team, but the offense is going to have to
+          be healthy on the offensive line to stay a top five unit in the
+          league, and the defense will need to step up in big-time moments when
+          the season is on the line as they failed at that in the past. Success
+          for the Cowboys will come down to just how healthy the offensive line
+          stays and if the depth of the front five can fill in until the
+          original Big 5 are all healthy and playing at the same time. Keep and
+          eye on Connor Williams at guard and La’el Collins at guard, plus Joe
+          Looney at center still gives this team a solid chance to bring a spark
+          to the franchise this season. This defense has a chance to be the best
+          Cowboys defense in quite some time as draft choices are starting to
+          hit their stride and can not only improve the defensive unit, but
+          possibly help the offense figure out some parts of their game with how
+          they perform each week. It is okay to be excited for this defense –
+          they could surprise many and possibly become game changers in the NFC
+          East. Taking everything said into account, this still could be a
+          successful season for the Cowboys. A double-digit win finish will get
+          them into the playoffs, and this team has the talent to be a playoff
+          team.
         </div>
       </div>
     </Fade>
