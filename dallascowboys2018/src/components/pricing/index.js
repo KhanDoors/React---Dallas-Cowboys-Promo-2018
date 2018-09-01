@@ -4,7 +4,7 @@ import Zoom from "react-reveal/Zoom";
 
 class Pricing extends Component {
   state = {
-    prices: [16, 52, 32],
+    prices: [16, 53, 32],
     positions: ["Games", "Players", "Cheerleaders"],
     desc: [
       "There are questions from expectations of Randy Gregory, rookie who makes the biggest impact, and the performances of Zeke, Dak and DeMarcus Lawrence, should be cool.",
